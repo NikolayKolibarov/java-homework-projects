@@ -1,0 +1,4 @@
+E:
+cd E:\Projects\Intro-Java-Homework\src
+javac _3_SumTwoNumbers.java
+java _3_SumTwoNumbers
