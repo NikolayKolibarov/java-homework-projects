@@ -1,0 +1,11 @@
+total 80K
+drwxrwxr-x 3 nikolay nikolay 4,0K яну 23 15:07 .
+drwxrwxr-x 7 nikolay nikolay 4,0K яну 19 23:16 ..
+-rw-rw-r-- 1 nikolay nikolay  118 яну 19 21:12 _1_PrintHometown.java
+-rw-rw-r-- 1 nikolay nikolay  316 яну  6 18:31 _2_PrintDateTime.java
+-rw-rw-r-- 1 nikolay nikolay  672 яну  8 19:17 _3_SumTwoNumbers.class
+-rw-rw-r-- 1 nikolay nikolay  365 яну  6 18:53 _3_SumTwoNumbers.java
+-rw-rw-r-- 1 nikolay nikolay 1,1K яну 21 12:11 _4_SortArrayOfStrings.jar
+-rw-rw-r-- 1 nikolay nikolay 4,7K яну 19 21:38 _5_GeneratePDFbyExternalLibrary.java
+drwxr-xr-x 8 nikolay nikolay 4,0K яну 23 15:27 .git
+-rw-rw-r-- 1 nikolay nikolay   34 яну 21 12:08 Manifest.txt

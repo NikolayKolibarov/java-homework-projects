@@ -1,0 +1,5 @@
+E:
+cd C:\Users\Nikolay\Dropbox\Desktop-Projects\Intro-Java-Homework\src
+javac _4_SortArrayOfStrings.java
+jar cvf _4_SortArrayOfStrings.jar _4_SortArrayOfStrings.class
+java -cp _4_SortArrayOfStrings.jar _4_SortArrayOfStrings
